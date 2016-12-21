@@ -859,3 +859,6 @@
 27052#Dual Whale#
 27053#Dual Jungle#
 27054#Dual Genie#
+
+//Ommamm Custom
+40005#Carefree#
