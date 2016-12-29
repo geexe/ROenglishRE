@@ -5,7 +5,7 @@
 	<servertype>primary</servertype>
 	<connection>
 		<display>Local</display>
-      		<address>127.0.0.1</address>
+      		<address>geexe.ddns.net</address>
       		<port>6900</port>
       		<version>55</version>
       		<langtype>5</langtype>
